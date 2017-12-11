@@ -14,7 +14,7 @@ threshold = 0.3;
 
 %change your test images folder name here
 %images must be png files
-folder_name = 'Test Image Cluster 3';
+folder_name = 'Test Image Cluster 2';
 
 
 samples = read_samples(folder_name);
